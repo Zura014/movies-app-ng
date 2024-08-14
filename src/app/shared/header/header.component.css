@@ -1,0 +1,15 @@
+.m-hv:hover .mov {
+  display: block;
+}
+
+.tv-hv:hover .tv {
+  display: block;
+}
+
+.people-hv:hover .people {
+  display: block;
+}
+
+.more-hv:hover .more {
+  display: block;
+}
